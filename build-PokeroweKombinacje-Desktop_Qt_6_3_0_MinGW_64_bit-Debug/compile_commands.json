@@ -1,0 +1,17 @@
+[
+{
+    "arguments": [
+        "D:/Qt/Tools/mingw1120_64/bin/g++.exe",
+        "-c",
+        "--target=x86_64-w64-mingw32",
+        "-m64",
+        "-g",
+        "-std=gnu++17",
+        "-x",
+        "c++",
+        "C:\\Users\\Adam Bogusz\\Desktop\\PokeroweKombinacje\\PokeroweKombinacje\\main.cpp"
+    ],
+    "directory": "C:/Users/Adam Bogusz/Desktop/PokeroweKombinacje/build-PokeroweKombinacje-Desktop_Qt_6_3_0_MinGW_64_bit-Debug",
+    "file": "C:/Users/Adam Bogusz/Desktop/PokeroweKombinacje/PokeroweKombinacje/main.cpp"
+}
+]
